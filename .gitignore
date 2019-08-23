@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#IDE settings
+.idea/
+
+# PyPi specific files
+.pypirc
+
+# License file
+LICENSE
