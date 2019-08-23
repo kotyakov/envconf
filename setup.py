@@ -5,8 +5,8 @@ from setuptools import (
 
 
 setup(
-    name='envconf',
-    version=__import__('envconf').__VERSION__,
+    name='kartoshechka',
+    version=__import__('kartoshechka').__VERSION__,
     packages=find_packages(exclude=('*.tests', '*.tests.*', 'tests.*', 'tests')),
 
     author='Maxim Kotyakov',

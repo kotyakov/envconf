@@ -1,5 +1,5 @@
 class EnvConfException(Exception):
-    """Base error class for envconf"""
+    """Base error class for kartoshechka"""
 
 
 class RequiredArgumentMissed(EnvConfException):

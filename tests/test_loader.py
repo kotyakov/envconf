@@ -2,7 +2,7 @@ import os
 import pytest
 import contextlib
 
-from envconf import (
+from kartoshechka import (
     ConfigField,
     EnvConfig,
     RequiredArgumentMissed
